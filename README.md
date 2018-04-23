@@ -1,6 +1,7 @@
-# FRS Live/Ondemand Solution based on Web 
-
-This is the repository for UI of the FRS Live/Ondemand Solution 
+# Vue.js ssr prototype
+- Express
+- Vuetify
+- Eslint
 
 ## Architecture Overview
 ![](https://cloud.githubusercontent.com/assets/499550/17607895/786a415a-5fee-11e6-9c11-45a2cfdf085c.png)
@@ -10,11 +11,6 @@ https://vuetifyjs.com/ko/guides/server-side-rendering
 
 ## Project Install
  ``` bash
-# clone project
-git clone https://mygit.skcc.com/scm/vip/vas_frs_ui.git 
-
-# install dependencies
-cd vas_frs_ui
 npm install # or yarn
 ```
 
