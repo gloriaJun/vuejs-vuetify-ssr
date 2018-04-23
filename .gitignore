@@ -1,0 +1,35 @@
+# dependencies
+/node/
+/node_modules/
+package-lock.json
+yarn.lock
+
+## log of dependencies
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# build
+/dist/
+
+
+# test
+/test/unit/coverage/
+/test/e2e/reports/
+
+## log of test
+selenium-debug.log*
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# other
+.DS_Store
+
